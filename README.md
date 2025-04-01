@@ -2,8 +2,8 @@
 /**
  * Ejercicios en Java - Programación Básica
  * 
- * Autor: [Tu Nombre]
- * Fecha: [Fecha de Entrega]
+ * Autor: nombre de la persona
+ * Fecha:fecha para entregar
  * Descripción: Solución de los ejercicios de ciclos y condicionales en Java.
  */
 
